@@ -26,4 +26,5 @@ form fieldset{
 button {
   padding: 3px;
   margin: 6px;
+  background: blue;
 }
