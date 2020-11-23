@@ -1,0 +1,20 @@
+form {
+  padding-right: 10px;
+}
+
+form input,
+form textarea{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+form label{
+  display: block;
+  font-size: 18px;
+  margin-top: 5px; 
+  margin-bottom: -15px;
+}
+
+form textarea{
+  height: 160px;
+}
