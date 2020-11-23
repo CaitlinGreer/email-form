@@ -22,3 +22,7 @@ form textarea{
 form fieldset{
   font-size: 20px;
 }
+
+button {
+  padding: 3px;
+  margin: 5px;
